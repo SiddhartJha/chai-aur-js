@@ -18,3 +18,23 @@ console.log(+"")
 //link to study
 //https://tc39.es/ecma262/multipage/abstract-operations.html#sec-abstract-operations
 //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Increment
+
+//********comparissons********
+
+console.log(null > 0)
+console.log(null == 0)
+console.log(null >= 0)
+
+//in >< >= <= comparisons comparison convertor converts null into zero(0)
+
+// ************************datatypes summary*******************
+
+//primitive: 
+
+// 7 types: string, Boolean, Number, null, undefined, symbol, BigInt
+
+//reference or non primitive
+
+//Array, Objects, functions
+// const id = Symbol('23')
+// console.log(id)
